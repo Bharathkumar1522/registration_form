@@ -8,6 +8,7 @@
   
 }
 h1{
+  text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   /* Define the gradient */
   background: linear-gradient(to right top, #ff6800, #ea8500, rgb(255, 226, 34), #92cb00, #1ee300);
@@ -30,7 +31,7 @@ p{
 }
 .card {
   width: 430px;
-  height: 454px;
+  height: 480px;
   background: #cfcfcf;
   position: relative;
   display: flex;
